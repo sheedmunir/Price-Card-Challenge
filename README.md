@@ -19,7 +19,7 @@ Your users should be able to:
 
 ## My Solution
 
-- Live Demo: [Coming soon]
+- Live Demo: Live Demo: [https://sheedmunir.github.io/Price-Card-Frontend-Mentor-Challange/](https://sheedmunir.github.io/Price-Card-Frontend-Mentor-Challange/)
 - GitHub Repo: [YOUR_REPO_LINK_HERE]
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
