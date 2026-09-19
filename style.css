@@ -9,13 +9,14 @@
     box-sizing: inherit;
     }
     body{
-    padding : 30px;
+    width: 100%;
+    padding : 10px;
     }
     h2, h4, p {
     margin: 0;
     }
     #card {
-    width: 300px;
+    width: 100px;
     height: auto;
     box-shadow:10px 10px 20px -6px rgba(0, 0, 0, 0.24);
     border-radius: 6px;       
@@ -85,13 +86,21 @@
     top: -2px;
     left: 2px;
     opacity: 0.7;
+    margin-bottom: 10px;
 
+    }
+    #butt {
+        width: 100%;
+        text-align: left;
+     
     }
     button {
     color : white;
     background-color: #c0df34;
     padding: 10px;
-    width: 90%;
+    width: 100%;
+    height: 45px;
+    text-align: center;
     border: none;
     margin-top: 35px;
     border-radius: 4px;
@@ -107,7 +116,7 @@
     list-style: none;
     padding-left: 0px;
     margin-top: 20px;
-    line-height: 18px;
+    line-height: 22px;
     }
     li {
     opacity: 0.8;
@@ -121,12 +130,49 @@
         padding: 10px;
     }
 
-    @media (max-width:-webkit-device-pixel-ratio: 1.5) {
+    @media (min-width:100px) {
+        #card {
+            width:100%;
+        }
         body {
-            padding: 0px;
+            padding: 1.2rem;
+        }
+    }
+    @media (min-width: 580px) {
+        html {
+            font-size: 20px;
         }
         #card {
             width: 100%;
-            height: auto;
+            height: 27rem;
+        }
+        body {
+            padding: 2rem;
+        }
+        #bottom-left, #bottom-right {
+            width: 50%;
+            height: 100%;
+        }
+        .attribution {
+            width: 100%;
+        }
+    }
+    @media (min-width: 1000px) {
+        html {
+            font-size: 20px;
+        }
+        #card {
+            width: 900px;
+            height: 500px;
+        }
+        body {
+            padding: 2rem;
+        }
+        #bottom-left, #bottom-right {
+            width: 50%;
+            height: 100%;
+        }
+        .attribution {
+            width: 900px;
         }
     }
