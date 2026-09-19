@@ -19,8 +19,8 @@ Your users should be able to:
 
 ## My Solution
 
-- Live Demo: Live Demo: [https://sheedmunir.github.io/Price-Card-Frontend-Mentor-Challange/](https://sheedmunir.github.io/Price-Card-Frontend-Mentor-Challange/)
-- GitHub Repo: [Price-Card-Frontend-Mentor-Challange](https://github.com/sheedmunir/Price-Card-Frontend-Mentor-Challange)
+- Live Demo: Live Demo: [https://sheedmunir.github.io/Price-Card-Challenge/](https://sheedmunir.github.io/Price-Card-Challenge/)
+- GitHub Repo: [Price-Card-Challange](https://github.com/sheedmunir/Price-Card-Challenge)
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
