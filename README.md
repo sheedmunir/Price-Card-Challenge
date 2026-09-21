@@ -19,11 +19,22 @@ Your users should be able to:
 
 ## My Solution
 
-- Live Demo: Live Demo: [https://sheedmunir.github.io/Price-Card-Challenge/](https://sheedmunir.github.io/Price-Card-Challenge/)
-- GitHub Repo: [Price-Card-Challange](https://github.com/sheedmunir/Price-Card-Challenge)
+- Live Demo: [Price-Card-Challenge](https://sheedmunir.github.io/Price-Card-Challenge/)
+- GitHub Repo: [Price-Card-Challenge](https://github.com/sheedmunir/Price-Card-Challenge)
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+### Screenshot
+![My solution screenshot](screenshot.jpg)
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+
+### Built With
+- Semantic HTML5
+- Vanilla CSS3
+- Mobile-first, responsive workflow
+
+### What I Learned
+As one of my first front-end challenges, I'm proud I achieved a responsive design using just vanilla CSS. I had to adjust `display`, `box-sizing`, and use `object-fit: cover` to get images fitting correctly inside their containers. Next time, I want to use `grid` more from the start for cleaner responsive layouts.
+
+I love receiving feedback! I am always looking to improve my skills. So if you have anything you'd like to mention, please email at [sheedmunir@gmail.com](mailto:sheedmunir@gmail.com)
+
 
 **Have fun building!** 🚀
